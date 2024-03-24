@@ -9,19 +9,15 @@
 
 Languages:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" /><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /><img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 
 Tools:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/jenkins" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker" /><img height="32" width="32" src="https://cdn.simpleicons.org/jenkins" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 
-Learning:
+Interest & Learning:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/rust" /><img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" />
 
 <!---
 vicat47/vicat47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
