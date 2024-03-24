@@ -1,5 +1,5 @@
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/vicat?flag=bi?gradient=vice%20city" width="256" height="64" alt="My pronouns are vicat">
+  <img src="https://pronouns.vercel.app/Vicat?flag=bi&gradient=vice%20city" width="256" height="64" alt="My pronouns are vicat">
 </a>
 - 👋 Hi, I’m @vicat47
 - 👀 I’m interested in ...
