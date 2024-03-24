@@ -7,11 +7,21 @@
 - 🌱 I’m currently heavy use of programming languages is <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openjdk.svg" />
 - 📫 How to reach me [vicat47@qqcom](vicat47@qq.com)
 
-Languages and Tools:
+Languages:
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+
+Tools:
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/jenkins" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+
+Learning:
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
 
 <!---
 vicat47/vicat47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
