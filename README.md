@@ -7,6 +7,8 @@
 - 🌱 I’m currently heavy use of programming languages is <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openjdk.svg" />
 - 📫 How to reach me [vicat47@qqcom](vicat47@qq.com)
 
+![my github stats](https://github-readme-stats.vercel.app/api?username=vicat47&theme=blue-green)
+
 Languages:
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" /><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /><img height="32" width="32" src="https://cdn.simpleicons.org/python" />
